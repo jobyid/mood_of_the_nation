@@ -1,3 +1,3 @@
 # mood_of_the_nation
 
-Usinh machine learning to make apreidction of a nations mood 
+Using machine learning to make a preidction of a nations mood 
